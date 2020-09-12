@@ -1,12 +1,18 @@
-create react app
-express
-ejs
+# Composer
 
+## Description
+The idea is that it will take a route and use that name to assimilate the related MVC files & load the view.
 
-initial file > ~/server.js
-- imports all routes by files in /routes dir
+![How it works](./assets/images/composer-how-it-works.svg)
 
+## Pre-requisites
+Git & Node
 
-Getting Started
+## Foundation
+- create react app
+- express
+- ejs
+
+## Getting Started
 1. `npm install`
 2. `npm run start`
