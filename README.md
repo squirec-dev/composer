@@ -3,7 +3,10 @@
 ## Description
 The idea is that it will take a route and use that name to assimilate the related MVC files & load the view.
 
+Diagram
+<details>
 ![How it works](./assets/images/composer-how-it-works.svg)
+</details>
 
 ## Pre-requisites
 Git & Node
